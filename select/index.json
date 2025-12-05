@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Let Me Let You Go (International Version)",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-05T12:02:44.131727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let Me Let You Go - International Version",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_Let_Me_Let_You_Go_-_International_Version_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let Me Let You Go (International Version)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Let_Me_Let_You_Go_(International_Version)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let Me Let You Go - International Version",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Let_Me_Let_You_Go_-_International_Version_ONE_OK_ROCK.txt"
+    }
+  ]
+}
